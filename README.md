@@ -1,4 +1,4 @@
-# Altagram Starwars Ships Challenge
+# A Starwars Ships Code Challenge
 A service project using Python, retrieving a list of all starships from the Star Wars movies, sorted by the hyperdrive rating.
 
 The project is built with Jupyter Notebook and Python, using the Flask framework. 
